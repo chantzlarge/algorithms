@@ -13,9 +13,16 @@
 
 - [ ] [Go](https://golang.org/doc/install)
 
-To install:
+Step 1:
 
-`go get -u github.com/chantzlarge/algorithms/tree/go`
+`go get -u github.com/chantzlarge/algorithms`
+
+Step 2:
+
+```shell
+cd $GOPATH/src/github.com/chantzlarge/algorithms
+git checkout go
+```
 
 ## Usage
 
