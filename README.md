@@ -1,4 +1,4 @@
-# chantzlarge/algorithms
+# [@chantzlarge](https://github.com/chantzlarge)/[algorithms](https://github.com/chantzlarge/algorithms)
 
 ---
 
