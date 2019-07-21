@@ -9,10 +9,6 @@
 
 ## Installation
 
-### Prerequisites
-
-- [ ] [Go](https://golang.org/doc/install)
-
 ```shell
 go get -u github.com/chantzlarge/algorithms
 cd $GOPATH/src/github.com/chantzlarge/algorithms
