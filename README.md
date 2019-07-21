@@ -16,7 +16,10 @@
 
 ## Contributing
 
-> Contributing should include sections related to contributor guidelines, standards, development methodologies, and style guides.
+The vision for this project is to establish a bank of algorithms implemented in various programming languages for reference and education. Initially, many of these algorithms will be implemented from the popular book, [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844). If you're interested in contributing to this project:
+
+* [Create an Issue](https://help.github.com/en/articles/creating-an-issue)
+* [Create a Pull Request](https://help.github.com/en/articles/creating-a-pull-request)
 
 | | [Go](https://github.com/chantzlarge/algorithms/tree/go) |
 | --- | --- |
