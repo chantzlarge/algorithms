@@ -4,15 +4,20 @@
 
 ## TL;DR
 
-> TL;DR (Too-long; Didn’t-read) should include a list of highlights readers should takeaway as well as answers to frequently asked questions.
+* The purpose of this repository is to serve as an educational resource and reference about algorithms
+* Programmers new to open-source are encouraged to use this repository to learn about contributing to open-source projects
 
 ## Installation
 
-> Installation should include a list of step-by-step instructions for installing the application.
+To install, follow the installation instructions found on the language-specific branch:
+
+* [Go](https://github.com/chantzlarge/algorithms/tree/go#installation)
 
 ## Usage
 
-> Usage should include sections related to running and testing the application.
+| | [Go](https://github.com/chantzlarge/algorithms/tree/go) |
+| --- | --- |
+| [Insertion Sort](https://github.com/chantzlarge/algorithms/wiki/Insertion-Sort) | [✔](https://github.com/chantzlarge/algorithms/blob/go/insertionsort.go) |
 
 ## Contributing
 
@@ -21,9 +26,7 @@ The vision for this project is to establish a bank of algorithms implemented in 
 * [Create an Issue](https://help.github.com/en/articles/creating-an-issue)
 * [Create a Pull Request](https://help.github.com/en/articles/creating-a-pull-request)
 
-| | [Go](https://github.com/chantzlarge/algorithms/tree/go) |
-| --- | --- |
-| [Insertion Sort](https://github.com/chantzlarge/algorithms/wiki/Insertion-Sort) | [✔](https://github.com/chantzlarge/algorithms/blob/go/insertionsort.go) |
+In addition to source code contributions, I intend to include Wiki pages describing algorithms and their properties (i.e. time complexity) which is open for contribution as well.
 
 ## License
 
