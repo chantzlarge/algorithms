@@ -18,6 +18,10 @@
 
 > Contributing should include sections related to contributor guidelines, standards, development methodologies, and style guides.
 
+| | Go |
+| --- | --- |
+| Insertion Sort | ✔ |
+
 ## License
 
 > License should include a link to the license which applies to the project.
