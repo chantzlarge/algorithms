@@ -18,9 +18,9 @@
 
 > Contributing should include sections related to contributor guidelines, standards, development methodologies, and style guides.
 
-| | Go |
+| | [Go](https://github.com/chantzlarge/algorithms/tree/go) |
 | --- | --- |
-| Insertion Sort | ✔ |
+| [Insertion Sort](https://github.com/chantzlarge/algorithms/wiki/Insertion-Sort) | [✔](https://github.com/chantzlarge/algorithms/blob/go/insertionsort.go) |
 
 ## License
 
