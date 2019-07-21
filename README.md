@@ -17,7 +17,7 @@ To install, follow the installation instructions found on the language-specific 
 
 | | C# | [Go](https://github.com/chantzlarge/algorithms/tree/go) | NodeJS |
 | --- | --- | --- | --- | 
-| [Insertion Sort](https://github.com/chantzlarge/algorithms/wiki/Insertion-Sort) | [✔](https://github.com/chantzlarge/algorithms/blob/go/insertionsort.go) | | |
+| [Insertion Sort](https://github.com/chantzlarge/algorithms/wiki/Insertion-Sort) | | [✔](https://github.com/chantzlarge/algorithms/blob/go/insertionsort.go) | | 
 
 ## Contributing
 
